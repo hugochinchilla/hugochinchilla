@@ -23,10 +23,10 @@ Here you can see some recent code of mine contributting to some projects I like 
 
 ### Technologies
 
-* Mainly PHP and Python for the backend, but I'm not afraid of getting my hands dirty with Ruby, Go, Java when the situation demands it.
+* Mainly PHP and Python for the backend, but I'm not afraid of getting my hands dirty with Ruby, Go or Java when the situation demands it.
 * React + Typescript for the frontend.
 * Docker + docker-compose for the development environment.
-* Gitlab CI for CI/CD
+* Gitlab CI for CI/CD.
 
 ### About me
 
