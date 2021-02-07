@@ -4,8 +4,8 @@ It's been a while since I created a personal project here, if you want to take a
 
 Also I co-authored this other two repositories. It was a way to bootstrap a new team operating in full remote and stablish team agreements about how we should operate and how the architecture for a new project should look like, once we had a good grasp on it we moved to the actual project. Work was done in mob-programming so commit author is not too much meaningful, just an indicator of who was using the keyboard at any given time.
 
-https://github.com/luisrovirosa/corporate_kata
-https://github.com/luisrovirosa/corporate_kata_frontend
+* [luisrovirosa/corporate_kata](https://github.com/luisrovirosa/corporate_kata)
+* [luisrovirosa/corporate_kata_frontend](https://github.com/luisrovirosa/corporate_kata_frontend)
 
 ### Recent contributions to other projects:
 
