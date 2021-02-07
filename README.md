@@ -9,7 +9,7 @@ Also I co-authored this other two repositories. It was a way to bootstrap a new 
 
 ### Recent contributions to other projects:
 
-Here you can see some recent code of mine contributting to some projects i like and use frequently.
+Here you can see some recent code of mine contributting to some projects I like and use frequently.
 
 * [Handle CORS requests](https://github.com/muonsoft/openapi-mock/pull/36) in `muonsoft/openapi-mock`
 * [Php 8.0 support](https://github.com/Baldinof/roadrunner-bundle/pull/23) in `Baldinof/roadrunner-bundle`
