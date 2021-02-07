@@ -16,18 +16,21 @@ Here you can see some recent code of mine contributting to some projects I like 
 * [Clear Sentry breadcrumbs at the end of every request](https://github.com/Baldinof/roadrunner-bundle/pull/17) in `Baldinof/roadrunner-bundle`
 * [Do not blame internal classes as uncovered cases](https://github.com/qossmic/deptrac/pull/310) in `qossmic/deptrac`
 
+### Technologies
 
-<!--
-**hugochinchilla/hugochinchilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Mainly PHP and Python for the backend, but I'm not afraid of getting my hands dirty with Ruby, Go, Java when the situation demands it.
+* React + Typescript for the frontend.
+* Docker + docker-compose for the development environment.
+* Gitlab CI for CI/CD
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📷 Photography enthusiast
+- 🎸 Learning to play guitar
+- 🐬 Advance Open Water Diver
+- 🎛️ Tinkerer
+
+### Contact
+
+[Here is my LinkedIn profile](https://www.linkedin.com/in/hugo-chinchilla-carbonell/) if you want to contact me.
+
