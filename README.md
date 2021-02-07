@@ -16,6 +16,11 @@ Here you can see some recent code of mine contributting to some projects I like 
 * [Clear Sentry breadcrumbs at the end of every request](https://github.com/Baldinof/roadrunner-bundle/pull/17) in `Baldinof/roadrunner-bundle`
 * [Do not blame internal classes as uncovered cases](https://github.com/qossmic/deptrac/pull/310) in `qossmic/deptrac`
 
+#### Older/rejected contributions
+
+* [Added multi server support for automatic failover](https://github.com/pheanstalk/pheanstalk/pull/110) in `pheanstalk/pheanstalk`
+* [Import users preserving UID](https://github.com/dperson/samba/pull/7) in `dperson/samba`
+
 ### Technologies
 
 * Mainly PHP and Python for the backend, but I'm not afraid of getting my hands dirty with Ruby, Go, Java when the situation demands it.
