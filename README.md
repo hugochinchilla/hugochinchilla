@@ -14,10 +14,10 @@ Here you can see some recent code of mine contributting to some projects I like 
 * [Handle CORS requests](https://github.com/muonsoft/openapi-mock/pull/36) in `muonsoft/openapi-mock`
 * [Php 8.0 support](https://github.com/Baldinof/roadrunner-bundle/pull/23) in `Baldinof/roadrunner-bundle`
 * [Clear Sentry breadcrumbs at the end of every request](https://github.com/Baldinof/roadrunner-bundle/pull/17) in `Baldinof/roadrunner-bundle`
-* [Do not blame internal classes as uncovered cases](https://github.com/qossmic/deptrac/pull/310) in `qossmic/deptrac`
 
 #### Older/rejected contributions
 
+* [Do not blame internal classes as uncovered cases](https://github.com/qossmic/deptrac/pull/310) in `qossmic/deptrac`
 * [Added multi server support for automatic failover](https://github.com/pheanstalk/pheanstalk/pull/110) in `pheanstalk/pheanstalk`
 * [Import users preserving UID](https://github.com/dperson/samba/pull/7) in `dperson/samba`
 
