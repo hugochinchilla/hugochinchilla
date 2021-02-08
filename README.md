@@ -32,7 +32,7 @@ Here you can see some recent code of mine contributting to some projects I like 
 
 - 📷 Photography enthusiast
 - 🎸 Learning to play guitar
-- 🐬 Advance Open Water Diver
+- 🐬 Advanced Open Water Diver
 - 🎛️ Tinkerer
 
 ### Contact
