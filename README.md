@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-It's been a while since I created a public personal project here, if you want to take a look at code that actually represents my current coding style look at [this kata](https://github.com/hugochinchilla/backpack-kata-2020).
+If you want to see the kind of code I write here there are some of my favorite examples:
+ - [pysyringe](https://github.com/hugochinchilla/pysyringe) A production ready dependency injection container for python
+ - [lifeboat_linux](https://github.com/hugochinchilla/lifeboat_linux) An extensible linux distro in a single EFI file for recovering damaged systems
+ - [hr_assignment](https://github.com/hugochinchilla/hr_assignment) A simple HR app I coded as a code challenge for a company I applied to
+ - [Rover kata](https://github.com/hugochinchilla/wallbox-rover-kata) A rover kata also developed as a code challenge for another company
+ - [backpack kata](https://github.com/hugochinchilla/backpack-kata-2020) A TDD exercise applying some aspects of Domain Driven Design
+ - [botanist](https://github.com/hugochinchilla/botanist) A PHP package for avoiding mixed ownerships in a project tree when running docker as root (which you should not)
 
 Also I co-authored this other two repositories. It was a way to bootstrap a new team operating in full remote, aiming to stablish team agreements about how we should operate and how the architecture for a new project should look like, once we had a good grasp on it we moved to the actual project. Work was done in mob-programming so commit author is not too much meaningful, just an indicator of who was using the keyboard at any given time.
 
@@ -26,7 +32,8 @@ Here you can see some recent code of mine contributting to some projects I like 
 * Mainly PHP and Python for the backend, but I'm not afraid of getting my hands dirty with Ruby, Go or Java when the situation demands it.
 * React + Typescript for the frontend.
 * Docker + docker-compose for the development environment.
-* Gitlab CI for CI/CD.
+* Gitlab CI and Github workflows for CI/CD.
+* Kubernetes for deployment to production and staging environments
 
 ### About me
 
